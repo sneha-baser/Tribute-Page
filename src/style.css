@@ -1,0 +1,107 @@
+#box{
+  background-color: #D3D3D3; 
+  border-radius : 25px;
+  border:1px solid grey;
+}
+#title{
+ 
+  background-color:#FF9933;
+  text-align:center;
+margin-left : 10px;
+ margin-right : 10px;
+  padding-bottom : 20px;
+  
+}
+h1{
+  margin-bottom:10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+   font-size: large;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+#img-div img{
+/*   margin-top:10px; */
+/*   width:1000px; */
+  max-width: 100%;
+  height: auto;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top:10px;
+  padding-bottom:10px;
+/*   margin-left:250px;  */
+  
+  
+}
+#img-div{
+  
+  background-color:#FFFFFF;
+  margin-left : 10px;
+ margin-right : 10px;
+
+  padding-bottom : 5px;
+ 
+}
+#img-caption{
+  
+  text-align:center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  
+}
+#tribute-info{
+  	background-color:#138808;
+  margin-left : 10px;
+ margin-right : 10px;
+ 
+  margin-top:-25px;
+
+}
+#tribute-info h1{
+   text-align:center;
+  font-family: Cursive;
+}
+#tribute-info p{
+  text-align:center;
+  margin-bottom : 50px;
+}
+#tribute-info ul{
+  line-height: 1.6;
+   
+}
+#tribute-info li{
+  font-size:20px;
+   
+}
+#quote p{
+  font-family: "Times New Roman", Times, serif;
+  color:white;
+  font-size:30px;
+  font-family: 'Lobster', cursive;
+}
+#quote h5{
+  
+  color:white;
+  font-size:20px;
+  font-family: 'Lobster', cursive;
+  text-align:center;
+  margin-top:-50px;
+}
+#moredetails{
+  font-family: "Times New Roman", Times, serif;
+  text-align:center;
+  font-size:25px;
+}
+#createdby{
+  text-align:center;
+ 
+}
+mark{
+  background-color:		#A9A9A9;
+}
+
+
+
+
